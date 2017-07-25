@@ -1,6 +1,6 @@
 {
   "name": "TestFRMK",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "description of TestFRMK.",
   "description": "Add long description of the pod here.",
   "homepage": "https://github.com/wowbby/TestFRMK",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/wowbby/TestFRMK.git",
-    "tag": "0.3.0"
+    "tag": "0.5.0"
   },
   "platforms": {
     "ios": "8.0"
@@ -22,7 +22,8 @@
   "vendored_frameworks": "TestFRMK/FRMKS/*.framework",
   "libraries": [
     "z",
-    "sqlite3.0"
+    "sqlite3.0",
+    "c++"
   ],
   "frameworks": "CoreTelephony"
 }
