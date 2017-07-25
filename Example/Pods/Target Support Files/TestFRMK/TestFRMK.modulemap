@@ -1,0 +1,6 @@
+framework module TestFRMK {
+  umbrella header "TestFRMK-umbrella.h"
+
+  export *
+  module * { export * }
+}
