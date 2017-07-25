@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestFRMK'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'description of TestFRMK.'
 
 # This description is used to generate tags and improve search results.
@@ -32,6 +32,8 @@ Add long description of the pod here.
 
   s.source_files = 'TestFRMK/Classes/**/*'
   s.vendored_frameworks = 'TestFRMK/FRMKS/*.framework'
+  s.libraries           = "z", "sqlite3.0"
+  s.frameworks = 'CoreTelephony'
   # s.resource_bundles = {
   #   'TestFRMK' => ['TestFRMK/Assets/*.png']
   # }

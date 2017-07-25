@@ -1,5 +1,5 @@
 PODS:
-  - TestFRMK (0.1.0)
+  - TestFRMK (0.3.0)
 
 DEPENDENCIES:
   - TestFRMK (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TestFRMK: 0de5fdcc752eec7e5507a3427976bf3e1660dc34
+  TestFRMK: 3d39b535941af60dd84a89cc1636ae936a3adfdd
 
 PODFILE CHECKSUM: 92d66dc4b584c14a08eacddadbd74c3fd172d774
 

@@ -7,10 +7,10 @@
 //
 
 #import "TestClass.h"
-#import <uSDK/uSDKDeviceManager.h>
+#import <UMMobClick/MobClick.h>
 @implementation TestClass
 +(void)testFunc{
     
-    [[uSDKDeviceManager defaultDeviceManager] getDeviceList];
+    [MobClick startWithConfigure:nil];
 }
 @end
