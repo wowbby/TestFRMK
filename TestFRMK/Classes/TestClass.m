@@ -9,5 +9,8 @@
 #import "TestClass.h"
 #import <uSDK/uSDKDeviceManager.h>
 @implementation TestClass
-
++(void)testFunc{
+    
+    [[uSDKDeviceManager defaultDeviceManager] getDeviceList];
+}
 @end
