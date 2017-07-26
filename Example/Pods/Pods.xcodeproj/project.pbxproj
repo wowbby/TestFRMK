@@ -33,17 +33,16 @@
 		0A4A3493EF0C2BB27A9566B0F8C7D8CC /* Pods-TestFRMK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestFRMK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		18FD45A8FC1921703CFD4D879BBC95E3 /* Pods-TestFRMK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TestFRMK_Example-frameworks.sh"; sourceTree = "<group>"; };
 		1DDE25F2A2A736553E85DFFA0476EE33 /* uSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = uSDK.framework; path = TestFRMK/FRMKS/uSDK.framework; sourceTree = "<group>"; };
-		26C9425B00470691857C934FE74CBDCD /* UMMobClick.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UMMobClick.framework; path = TestFRMK/FRMKS/UMMobClick.framework; sourceTree = "<group>"; };
 		4020E19F232CED01DAC22C482C4827A0 /* Pods-TestFRMK_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TestFRMK_Tests-resources.sh"; sourceTree = "<group>"; };
 		410D1BF31F4A93B1A6E75F44906DE05F /* TestClass.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TestClass.m; path = TestFRMK/Classes/TestClass.m; sourceTree = "<group>"; };
 		478AA9C9333EEB3E76C84040B593D83E /* Pods-TestFRMK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestFRMK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		512707296AFAA44796046AB016F8B7BA /* Pods-TestFRMK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestFRMK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5A3A385A78BECA600CDA2386B6C3D827 /* Pods-TestFRMK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TestFRMK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5FD9F9581B5311AE04507C9DE0DC2690 /* libPods-TestFRMK_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TestFRMK_Tests.a"; path = "libPods-TestFRMK_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A3FF4BFB949C1532656290BE5FF951F /* libTestFRMK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libTestFRMK.a; path = libTestFRMK.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		6E69C0398A6CF76F85850275A4CAB312 /* libPods-TestFRMK_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TestFRMK_Example.a"; path = "libPods-TestFRMK_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FD9F9581B5311AE04507C9DE0DC2690 /* libPods-TestFRMK_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestFRMK_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A3FF4BFB949C1532656290BE5FF951F /* libTestFRMK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTestFRMK.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E69C0398A6CF76F85850275A4CAB312 /* libPods-TestFRMK_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestFRMK_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79C8C64A9F7F5F63F4B56FE7A9617F82 /* Pods-TestFRMK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TestFRMK_Example-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9AB95BBB35CC2927E29FC483B29E54E5 /* TestFRMK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestFRMK-prefix.pch"; sourceTree = "<group>"; };
 		B2377A7A072EB99990FF8A49D62D7D52 /* Pods-TestFRMK_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TestFRMK_Example-resources.sh"; sourceTree = "<group>"; };
 		BC9F98B736CF36D9B188A3FD83CD1EE6 /* TestClass.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TestClass.h; path = TestFRMK/Classes/TestClass.h; sourceTree = "<group>"; };
@@ -183,7 +182,6 @@
 		CCB874099B78833E1046325ECC75B8DA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				26C9425B00470691857C934FE74CBDCD /* UMMobClick.framework */,
 				1DDE25F2A2A736553E85DFFA0476EE33 /* uSDK.framework */,
 			);
 			name = Frameworks;
